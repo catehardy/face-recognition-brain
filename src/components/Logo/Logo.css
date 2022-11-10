@@ -1,0 +1,19 @@
+.Tilt {
+    background: linear-gradient(to right, rgb(233, 148, 128), rgb(220, 132, 216));
+    border-color: rgba(0,89,135,160);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+}
+
+.Tilt h1 {
+    font-size: 1rem;
+    font-weight: 900;
+    font-family: 'Michroma', sans-serif;
+    color: rgba(0,89,135,160);
+    margin-top: 16px;
+}
+
+.Tilt p {
+    font-size: 2.8rem;
+}
