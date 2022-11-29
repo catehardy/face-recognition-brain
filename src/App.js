@@ -7,7 +7,6 @@ import Logo from "./components/Logo/Logo";
 import ImageLinkForm from "./components/ImageLinkForm/ImageLinkForm";
 import Rank from "./components/Rank/Rank";
 import ParticlesBg from "particles-bg";
-// const { Clarifai } = require('clarifai');  Tried alternate way of importing; same type error
 
 const app = new Clarifai.App({
   apiKey: '849a1f517c534ecbb8479cb8b80c288d'
